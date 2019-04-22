@@ -15,3 +15,8 @@ Changelog:
 2019/04/18:
 ---------------
 Repo init.
+
+2019/04/22:
+--------------
+1.change "Judgement" & "Test Method" to enum;
+2.add some cases
