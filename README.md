@@ -25,3 +25,4 @@ To Do List：
 1.wifi:
 disconnect: need to devide into 2 kind,forget network and common type(save password)
 connect:need to devide into 2 kind,forget network and common type(save password)
+https://github.com/lixiaoming2099/AGL-REGRESSION-TEST-TEMPLATE.git
